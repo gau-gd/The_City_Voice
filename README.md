@@ -1,4 +1,4 @@
 # The_City_Voice
-Road issue management system
+Road issue management system.
 A user-friendly app that allows the citizens of a city to raise complaints with concerned authorities. The app provides two user login facilities for the official as well as the user themselves.The app allows users to share details of incidents such as accidents, road repairs, and other issues. TheCityVoice bridges the communication gap between government officials and concerned citizens to resolve the geographical issues in a city. 
 The app is intended to facilitate better communication between citizens and authorities, enabling authorities to respond quickly and effectively to citizen complaints. The app uses a database that will store user registration, complaint ID, incident relation information such as, location, time, details, etc. The app will also store in the database the complaint status whether it's open, in the process, or closed.
